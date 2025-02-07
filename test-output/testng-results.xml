@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-26T22:40:43 IST" name="Default suite" finished-at="2025-01-26T22:40:55 IST" duration-ms="11835">
+    <groups>
+    </groups>
+    <test started-at="2025-01-26T22:40:43 IST" name="Default test" finished-at="2025-01-26T22:40:55 IST" duration-ms="11835">
+      <class name="tutorialsninja.T4">
+        <test-method signature="verifyRegistringAccountWithoutFillFields()[pri:0, instance:tutorialsninja.T4@7a6d7e92]" started-at="2025-01-26T22:40:44 IST" name="verifyRegistringAccountWithoutFillFields" finished-at="2025-01-26T22:40:55 IST" duration-ms="11655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegistringAccountWithoutFillFields -->
+      </class> <!-- tutorialsninja.T4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
